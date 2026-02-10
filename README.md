@@ -57,7 +57,7 @@ I enjoy stitching **Laravel and WordPress together** into one coherent backend s
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KHUZEMAH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khuzemah-saeed)
 
 ---
 
@@ -90,19 +90,24 @@ I enjoy stitching **Laravel and WordPress together** into one coherent backend s
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=KHUZEMAH&theme=dark&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KHUZEMAH&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHUZEMAH&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHUZEMAH&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=KHUZEMAH&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHUZEMAH&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=KHUZEMAH&theme=radical&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KHUZEMAH&theme=radical&no-frame=true&margin-w=4)
+
+---
+
+## 📈 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KHUZEMAH&theme=react-dark)
 
 ---
 
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
